@@ -4,14 +4,24 @@ title: About
 permalink: /about/
 ---
 
-A medium inspired Jekyll blog theme. The basic idea came from the Ghost theme 
-[Readium 2.0](http://www.svenread.com/readium-ghost-theme/). I use mediator on my own blog [The Base](blog.base68.com).
+<p class="message">
+  Hey there! This page is included as an example. Feel free to customize it for your own use upon downloading. Carry on!
+</p>
 
-You can **download** the theme here:
-[https://github.com/dirkfabisch/mediator](https://github.com/dirkfabisch/mediator) 
+Hydure is a concise two-column blog theme for Jekyll. It is built on the [Pure.css](https://github.com/pure-css/pure) framework.
 
-You can find out more info about customizing your Jekyll theme, as well as basic Jekyll usage documentation at [jekyllrb.com](http://jekyllrb.com/)
+Learn more and contribute on [GitHub](https://github.com/zivong/jekyll-theme-hydure).
 
-You can find the source code for the Jekyll new theme at: [github.com/jglovier/jekyll-new](https://github.com/jglovier/jekyll-new)
+## Setup
 
-You can find the source code for Jekyll at [github.com/jekyll/jekyll](https://github.com/jekyll/jekyll)
+Some fun facts about the setup of this project include:
+
+- Built for [Jekyll](https://jekyllrb.com)
+- Developed on GitHub and hosted for free on [GitHub Pages](https://pages.github.com)
+- Coded with [Visual Studio Code](https://code.visualstudio.com/), an amazing open-source code editor
+
+Have questions or suggestions? Feel free to [open an issue on GitHub](https://github.com/zivong/jekyll-theme-hydure/issues/new) or [ask me on Twitter](https://twitter.com/zivong91).
+
+Thanks for reading!
+
+The default cover image is from [Nick Rickert](https://unsplash.com/@nick_rickert), thanks!
